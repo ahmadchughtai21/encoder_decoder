@@ -24,3 +24,5 @@ Here's an example of how to use this program:
 7. The program will display the decoded message "Hello, world!".
 
 ## Screenshots
+![Screenshot 2024-07-10 193535](https://github.com/ahmadchughtai21/encoder_decoder/assets/133879449/b84d2d5e-f596-45d8-aaa5-51afd0efe1ee)
+
