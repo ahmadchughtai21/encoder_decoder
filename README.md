@@ -1,2 +1,26 @@
-# encoder_decoder
-Encoder-Decoder program in Python
+# Encoder/Decoder
+
+This is a Python program that allows you to encode and decode messages using a simple algorithm.
+
+## Usage
+
+To use this program, follow these steps:
+
+1. Run the program.
+2. Choose whether you want to encode or decode a message.
+3. Enter the message you want to encode or decode.
+4. The program will display the encoded or decoded message.
+
+## Example
+
+Here's an example of how to use this program:
+
+1. Run the program.
+2. Choose to encode a message.
+3. Enter the message "Hello, world!".
+4. The program will display the encoded message "pqhello,Hgah qqsorld!whhv".
+5. Choose to decode a message.
+6. Enter the message "pqhello,Hgah qqsorld!whhv".
+7. The program will display the decoded message "Hello, world!".
+
+## Screenshots
