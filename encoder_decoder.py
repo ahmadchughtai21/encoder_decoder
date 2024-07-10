@@ -12,8 +12,9 @@ def encode(mes):
             nwords.append(stnew)
         else:
             nwords.append(word[::-1])
-    print("Encoded Value:\n")
+    print("Encoded Value:")
     print(" ".join(nwords))
+    program()
 
         
     
@@ -31,8 +32,9 @@ def decode(mes):
             nwords.append(stnew)
         else:
             nwords.append(word[::-1])
-    print("Decoded Value:\n")
+    print("Decoded Value:")
     print(" ".join(nwords))
+    program()
 
 
 
